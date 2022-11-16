@@ -1,5 +1,5 @@
 # Quando a gira girou
-[[Zeca Pagodinho]] | [[A]] | [[F]]
+[[Zeca Pagodinho]] | [[A]] | [G](../G.md)
 
 O céu de repente anuviou  
 E o vento agitou as ondas do mar  

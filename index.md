@@ -21,7 +21,7 @@ Local: AfroMusée (Mushagalusa)
 3. Papo de samba / Só pra contrariar (C)
 	1. [PapoDeSamba](letras/PapoDeSamba.md)
 	2. [SóPraContrariar](letras/SóPraContrariar.md)
-4. Quando a gira girou / Tá escrito (F) - Lissiene
+4. Quando a gira girou / Tá escrito (G) - Lissiene
 	1. [QuandoAGiraGirou](letras/QuandoAGiraGirou.md)
 	2. [TáEscrito](letras/TáEscrito.md)
 5. Cabelo pixaim - Rafael / Tape deck (G) - Lissiene
@@ -61,18 +61,17 @@ Local: AfroMusée (Mushagalusa)
 	1. [Oxóssi](letras/Oxóssi.md)
 	2. [NemOuroNemPrata](letras/NemOuroNemPrata.md)
 4. Sete encruzilhadas / O sino da igrejinha / Dói dói dói / Deu meia noite (Em)
-	1. [OSinoDaIgrejinha](letras/OSinoDaIgrejinha.md)
-	2. [DóiDóiDóiPombagira](letras/DóiDóiDóiPombagira.md)
+	1. [Varios_Pontos](letras/Varios_Pontos.md)
 5. [FalaMajetéSeteChavesDeExu](letras/FalaMajetéSeteChavesDeExu.md) (Em)
 6. Senhora rezadeira / A deusa dos Orixás  (A) - Lissiene
 	1. [SenhoraRezadeira](letras/SenhoraRezadeira.md)
 	2. [ADeusaDosOrixás](letras/ADeusaDosOrixás.md)
-7. Samba de um minuto (Gm) / O ouro e a madeira (Gm) - Lissiene
-	1. [SambaDeUmMinuto](letras/SambaDeUmMinuto.md)
-	2. [OOuroEAMadeira](letras/OOuroEAMadeira.md)
+7. Samba de um minuto / O ouro e a madeira (Gm) - Lissiene
+	1. [Samba_De_Um_Minuto](letras/Samba_De_Um_Minuto.md)
+	2. [O_Ouro_E_A_Madeira](letras/O_Ouro_E_A_Madeira.md)
 8. Minha fé / Cabô meu pai (F)
-	1. [MinhaFé](letras/MinhaFé.md)
-	2. [CabôMeuPai](letras/CabôMeuPai.md)
+	1. [Minha_Fé](letras/Minha_Fé.md)
+	2. [Cabô_Meu_Pai](letras/Cabô_Meu_Pai.md)
 9. Filhos de Jorge (Em) / Ogum (A)
 	1. [FilhosDeJorge](letras/FilhosDeJorge.md)
 	2. [Ogum](letras/Ogum.md)
