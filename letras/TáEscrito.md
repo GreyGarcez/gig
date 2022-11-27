@@ -1,5 +1,5 @@
 # Tá Escrito
-[[Grupo Revelação]] | [G](../G.md)
+[[Grupo Revelação]] | [G](G.md)
 
 Quem cultiva a semente do amor  
 Segue em frente e não se apavora  

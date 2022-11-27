@@ -1,5 +1,5 @@
 # Sonhando eu sou feliz
-[[Arlindo Cruz]] #🎼️F 
+[[Arlindo Cruz]] | [[F]]  
 [YouTube](https://youtu.be/qPYz10l3xdI?t=2m6s)
 
 Andam fazendo de tudo  
@@ -8,12 +8,12 @@ Greve de paz, greve de amor
 Se andam espalhando bomba  
 Um bom malandro não tomba  
 Dá uma volta redonda  
-e acorda o país
-==sai rebolo==
+e acorda o país  
+==sai rebolo==  
 
-==entra conga - palmas durante refrão==
-**Tô sonhando mas eu sou feliz
-Só assim eu sou feliz**
+==entra conga - palmas durante refrão==  
+**Tô sonhando mas eu sou feliz  
+Só assim eu sou feliz**  
   
 Eu sou feliz  
 Sonhando eu sou feliz  

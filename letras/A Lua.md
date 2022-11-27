@@ -1,10 +1,5 @@
----
-tom: 
-autores:
-- Grey
----
-
 # A lua
+Grey
 
 Seja nova ou plena enfeitiça o ar (ai, a lua)  
 Guarda os seus mistérios do lado de lá (é, a lua)  

@@ -1,8 +1,8 @@
 # Mestre Marçal
-[[Wilson das Neves]] #🎼️D 
+[[Wilson das Neves]] | [[D]]
 
-==Se alguém me bancar eu sei me vestir  
-Só me falta roupa, Iaiá, só me falta roupa==
+**Se alguém me bancar eu sei me vestir  
+Só me falta roupa, Iaiá, só me falta roupa**  
 
 Vou comendo mingau pela beira do prato  
 Enquanto no meio ele esfria  
@@ -13,7 +13,7 @@ Vou levando o corpo do jeito que posso
 Tás me entendendo compadre  
 Se a onça morrer o mato é nosso  
 
-==Se alguém me bancar==  
+**Se alguém me bancar**  
 
 Mas eu sei que nós estamos juntos  
 Porém, não estamos, meu bem, misturados  
@@ -24,7 +24,7 @@ Que Deus me defenda das coisas modernas
 Pois quem dorme, meu bem, de favor  
 Não tem o direito de esticar as pernas  
 
-==Se alguém me bancar==
+**Se alguém me bancar**  
 
 Trata de ti não me venha  
 Que tu desengomas  
@@ -38,7 +38,7 @@ Quero mais é que o mundo
 Se acabe em barranco  
 Que é para eu morrer escorado  
 
-==Se alguém me bancar==
+**Se alguém me bancar**  
 
 Tudo bem, justamente legal  
 Mas não tem bem me dói  
