@@ -1,4 +1,5 @@
 ---
+layout: index
 title: GIG 2022-12-02
 ---
 
