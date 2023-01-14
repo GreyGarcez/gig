@@ -1,5 +1,5 @@
 # Alma boêmia
-[[Zeca Pagodinho]] | [[E]]
+[[Zeca Pagodinho]] | [[E]] [[D]]
 
 Morro dos prazeres, que você me dá  
 Quando eu não sair de marola, eu vou te levar  

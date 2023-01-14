@@ -1,5 +1,5 @@
 # Pressentimento
-[[Roberta Sá]] | [[Bm]]
+[[Roberta Sá]] | [[Cm]]
 
 Ai ardido peito  
 Quem irá entender o seu segredo  

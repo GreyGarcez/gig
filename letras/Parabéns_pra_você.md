@@ -1,5 +1,5 @@
 # Parabéns pra você
-Fundo de Quintal | [Am](../tons/Am.md)  
+Fundo de Quintal | [[Am]]  
 [YouTube](https://youtu.be/wPMemoU3Wek)  
   
 Se o tempo passou e não fui feliz  

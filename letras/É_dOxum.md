@@ -1,5 +1,5 @@
 # É d'Oxum
-[[Gal Costa]] | [[G]]  
+[[Gal Costa]] | [[C]]  
 
 Nessa cidade todo mundo é d'Oxum  
 Homem, menino, menina, mulher  

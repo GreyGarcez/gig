@@ -1,6 +1,7 @@
 # Sorriso aberto
-[[Jovelina Pérola Negra]] | [[E]]  
+[[Jovelina Pérola Negra]] | [[Em]]  
 [YouTube](https://youtu.be/rFbnijlCe1w)  
+
 > conga
 
 **La, la ia la ia la ia**

@@ -1,5 +1,5 @@
 # Canto da rainha
-[[Beth Carvalho]] | [[D]]
+[[Beth_Carvalho]] | [[D]]
 
 Tentando esquecer os amargos da vida  
 Um dia saí  

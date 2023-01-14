@@ -1,5 +1,5 @@
 # Água de Chuva No Mar
-[[Beth Carvalho]] | [[C]]
+[[Beth_Carvalho]] | [[C]]
 
 O meu coração hoje tem paz  
 Decepção ficou pra trás  

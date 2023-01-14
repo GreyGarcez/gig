@@ -1,5 +1,5 @@
 # Acreditar
-@autor | [[G]]  
+@autor | [[D]]  
 [YouTube](https://youtu.be/pw0JYXLTkRs)
 
 Acreditar, eu não  

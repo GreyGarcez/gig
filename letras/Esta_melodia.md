@@ -1,5 +1,5 @@
 # Esta melodia
-[[Tia Surica]] | [[D]]
+[[Tia_Surica]] | [[D]]
 
 Quando vem rompendo o dia  
 Eu me levanto, começo logo a cantar  

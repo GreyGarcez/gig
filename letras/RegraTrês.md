@@ -1,5 +1,5 @@
 # Regra três
-[[Vinicius de Morais]] | [[Am]]  
+[[Vinicius_de_Morais]] | [[Am]]  
 
 Tantas você fez que ela cansou  
 Porque você, rapaz  

@@ -1,5 +1,5 @@
 # Senhora Rezadeira
-[[Beth Carvalho]] | [[A]]  
+[[Beth_Carvalho]] | [[A]]  
 
 Ó senhora rezadeira  
 **Rezadeira**  

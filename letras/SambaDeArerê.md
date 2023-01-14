@@ -1,5 +1,5 @@
 # Samba do arerê
-[[Beth Carvalho]] | [[Em]]
+[[Beth_Carvalho]] | [[Em]]
 
 Meu samba tem muito axé,  
 Quer ver, vem dizer no pé.  

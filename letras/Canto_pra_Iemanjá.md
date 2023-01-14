@@ -1,5 +1,5 @@
 # Canto pra Iemanjá
-[[Rafael Branco]]/[[Grey]] | [Am](../tons/Am.md)  
+[[Rafael Branco]] | [[Am]]  
 
 Se eu quisesse na beira do mar  
 flores jogar, minh'alma entregar  
@@ -12,14 +12,5 @@ Meu doce lar te presenciar
 
 Dignidade, preciso na vida pra poder cantar  
 Dignidade preciso na vida pra poder sonhar  
-
-Se vou assim sempre à vagar  
-Um dia hei de me encontrar  
-Sou marcado, tenho o que mostrar  
-Muito lutei, meu passado  
-Pétalas de ros'água do mar  
-Arruda tenho pra me banhar  
-Lua nova e vela pra rezar  
-Curado estou, saravá  
 
 Odoyá, rainha do mar, Iemanjá

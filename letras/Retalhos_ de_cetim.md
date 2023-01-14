@@ -1,5 +1,5 @@
 # Retalhos de cetim
-[Am](tons/Am.md)
+[[Am]]
  
 Ensaiei meu samba o ano inteiro,  
 Comprei surdo e tamborim.  

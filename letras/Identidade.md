@@ -1,5 +1,5 @@
 # Identidade
-[[Jorge Aragão]] | [Em](../tons/Em.md)  
+[[Jorge Aragão]] | [[Em]]  
 [YouTube](https://www.youtube.com/watch?v=rm-Eexth0Pw)  
 > conga - ijexá
 

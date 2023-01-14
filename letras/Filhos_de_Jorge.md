@@ -1,6 +1,8 @@
 # Filhos de Jorge
 [[Juninho Thybau]] | [[Em]]  
 
+[Youtube](https://www.youtube.com/watch?v=QW1KMGh-aVM)
+
 Não brinca com filho de jorge, não  
 Não brinca com filho de ogun  
 Porque jorge é da capadocia  
