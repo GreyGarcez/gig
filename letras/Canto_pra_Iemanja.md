@@ -4,8 +4,8 @@
 Se eu quisesse na beira do mar  
 flores jogar, minh'alma entregar  
 Se eu quisesse o meu corpo banhar  
-Olhar no mar meu passado  
-Sei que não tem mais um mal nenhum  
+Na água olhar meu passado  
+Sei que não há mal nenhum  
 É bem comum cantar pra Ogum  
 Se eu pudesse a vida guiar  
 Meu doce lar te presenciar  

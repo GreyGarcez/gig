@@ -1,4 +1,4 @@
-# Mas_quem_disse_que_eu_te_esqueço
+# Mas quem disse que eu te esqueço
 
 [[Dona Ivone Lara]] | [[D]]
 

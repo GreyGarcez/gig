@@ -9,9 +9,11 @@ E eu, esperei Lua cheia
 E eu, esperei Lua cheia  
 
 Quem pensou em passar o final de semana  
-Deitado na areia de Copacabana, também se enganou  
+Deitado na areia de Copacabana,  
+também se enganou  
 É! Quem pensou no pagode do para quem pode  
-Já viu que não pode ficou na saudade, o tempo fechou  
+Já viu que não pode ficou na saudade,  
+o tempo fechou  
 Bem cedo anuviou o céu escureceu  
 
 O dia se zangou então choveu, choveu  

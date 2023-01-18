@@ -1,4 +1,4 @@
-# Salgueiro 2019
+# Salgueiro 2019 - Xangô 
 
 [[Rodrigo Godoy]] | [[Dm]]
 
@@ -8,6 +8,11 @@
 Olori Xangô eieô  
 Kabesilé, meu padroeiro  
 Traz a vitória pro meu Salgueiro**
+
+**Mora na pedreira, é a lei da Terra  
+Vem de Aruanda pra vencer a guerra  
+Eis o justiceiro da Nação Nagô  
+Samba corre gira, gira pra Xangô**
 
 Vai trovejar!  
 Abram caminhos pro grande Obá  
@@ -19,11 +24,6 @@ No vento, a sedução (Oyá)
 O verdadeiro amor (Oraiêiêô)  
 E no sacrifício de Obà (Obà Xi Obà)  
 Lá vem Salgueiro!
-
-**Mora na pedreira, é a lei na Terra  
-Vem de Aruanda pra vencer a guerra  
-Eis o justiceiro da Nação Nagô  
-Samba corre gira, gira pra Xangô**
 
 Rito sagrado, ariaxé  
 Na igreja ou no candomblé  

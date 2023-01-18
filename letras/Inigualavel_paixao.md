@@ -26,10 +26,7 @@ Com a vida estou de bem...
 Que a lua!  
 **Que a lua venha nos iluminar  
 E o sol para nos aquecer  
-Pois quando a brisa  
-Da manhã chegar  
-Irá fortalecer  
-Ainda mais  
+Pois quando a brisa da manhã chegar  
+Irá fortalecer ainda mais  
 A união  
-Vou sonhar  
-Então...**(2x)
+Vou sonhar então...**(2x)
