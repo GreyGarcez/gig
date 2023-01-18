@@ -3,7 +3,7 @@ layout: index
 title: GIG 2023-02-03
 ---
 
-# Samba Canjerê 2023-02
+# [Samba Canjerê 2023-02](https://fb.me/e/3RyMsTAJq)
 
 Local: [AfroMusée](https://www.afromusee.org/)
 
