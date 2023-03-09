@@ -1,10 +1,10 @@
 ---
 tom: 
-autores:
-- Grey
 ---
 
 # Samba partido-alto
+
+[[Grey]]
 
 Se quiser chegar pra somar
 Pode vir que tem lugar

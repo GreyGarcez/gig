@@ -1,6 +1,8 @@
-# Mas quem disse que eu te esqueço
+---
+tom: [D]
+---
 
-[[Dona Ivone Lara]] | [[D]]
+[[Dona Ivone Lara]]
 
 Tristeza rolou dos meus olhos  
 De um jeito que eu não queria  

@@ -1,6 +1,8 @@
-# Luz_do_repente
+---
+tom: [D]
+---
 
-[[Jovelina Pérola Negra]] | [[D]]
+[[Jovelina Pérola Negra]]
 
 **Deixa comigo, deixa comigo  
 Eu seguro o pagode e não deixo cair ééé  

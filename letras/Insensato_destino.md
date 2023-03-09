@@ -1,5 +1,8 @@
-# Insensato Destino
-[[Zeca Pagodinho]] | [[G]] | [[D]]
+---
+tom: [G,D]
+---
+
+[[Zeca Pagodinho]]
 
 **Oh! Insensato destino  
 Prá quê?  

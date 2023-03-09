@@ -1,6 +1,8 @@
-# Manhã Seguinte
+---
+tom: [C]
+---
 
-[[Galocantô]] | [[Am]]
+[[Galocantô]]
 
 [Youtube](https://www.youtube.com/watch?v=rSHGFYhM-iY)
 

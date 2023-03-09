@@ -1,6 +1,8 @@
-# Caxambu
+---
+tom: [G]
+---
 
-[[Almir Guineto]] | [[G]]
+[[Almir Guineto]] 
 
 Olha vamos na dança do Caxambu  
 Saravá, jongo, saravá  

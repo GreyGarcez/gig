@@ -1,5 +1,8 @@
-# Oxóssi
-[[Toninho Geraes]] [[F♯m]] [[Em]]
+---
+tom: [F♯m,Em]
+---
+
+[[Toninho Geraes]]
 
 Oxóssi, filho de Iemanjá  
 Divindade do clã de Ogum  

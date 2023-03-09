@@ -1,5 +1,8 @@
-# Lá Vai Marola
-[[Zeca Pagodinho]] | [[Dm]]
+---
+tom: [Dm]
+---
+
+[[Zeca Pagodinho]]
 
 Pedro Batuque não é de dar mole à tristeza  
 Ele firma no coro, na caixa, na mesa.  

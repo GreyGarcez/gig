@@ -1,5 +1,8 @@
-# Será Que É Amor?
-[[Arlindo Cruz]] | [[E]]
+---
+tom: [E]
+---
+
+[[Arlindo Cruz]] 
 
 Eu tenho tanto pra te falar  
 Não sei por onde vou começar  

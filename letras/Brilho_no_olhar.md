@@ -1,6 +1,8 @@
-# Brilho No Olhar
+---
+tom: [C]
+---
 
-[[Almir Guineto]] | [[C]]
+[[Almir Guineto]]
 
 O que aconteceu com aquele sentimento  
 Cadê aquele brilho do seu olhar (do seu olhar)  

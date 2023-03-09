@@ -1,5 +1,8 @@
-# Falsa consideração
-[[Jorge Aragão]] | [[D]] [[C]]
+---
+tom: [D,C]
+---
+
+[[Jorge Aragão]]
 
 Agora eu sei  
 Que o amor que você prometeu  

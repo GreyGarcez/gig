@@ -1,5 +1,8 @@
-# De Bar Em Bar
-[[Roque Ferreira]] | [[Em]]
+---
+tom: [Em]
+---
+
+[[Roque Ferreira]]
 
 Numa noite fria eu saí  
 Procurando um jeito de lhe ver  

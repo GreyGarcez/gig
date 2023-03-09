@@ -1,5 +1,8 @@
-# Alvará (D)
-[[Jorge Aragão]] | [[D]]
+---
+tom: [D]
+---
+
+[[Jorge Aragão]]
 
 Ôôô
 

@@ -1,6 +1,9 @@
-# Amor estou sofrendo
-[[Jorge Aragão]] | [[F]] [[D]]
- 
+---
+tom: [F,D]
+---
+
+[[Jorge Aragão]]
+
 Amor estou sofrendo  
 Passando um pedaço  
 Se estou merecendo  

@@ -1,5 +1,8 @@
-# Eu e o Meu Amor
-[[Tom Jobim]] | [[Am]]
+---
+tom: [Am]
+---
+
+[[Tom Jobim]]
 
 Eu e o meu amor  
 E o meu amor ...  

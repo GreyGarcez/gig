@@ -1,6 +1,8 @@
-# Caciqueando
+---
+tom: [Eb]
+---
 
-[[Fundo de Quintal]] | Tom
+[[Fundo de Quintal]]
 
 [Youtube](https://www.youtube.com/watch?v=F0lIPZlJ10k)
 

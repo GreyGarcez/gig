@@ -1,6 +1,8 @@
-# Não Sou Mais Disso
+---
+tom: [G]
+---
 
-[[Zeca Pagodinho]] | [[G]]
+[[Zeca Pagodinho]]
 
 Eu não sei se ela fez feitiço  
 Macumba ou coisa assim  

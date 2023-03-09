@@ -1,6 +1,8 @@
-# Nos Pagodes da Vida
+---
+tom: [C]
+---
 
-[[Reinaldo]] | [[C]]
+[[Reinaldo]]
 
 [Youtube](https://youtu.be/u3zz7U7B0kk)
 

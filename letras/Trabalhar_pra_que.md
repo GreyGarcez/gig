@@ -1,6 +1,8 @@
-# Trabalhar pra quê? (ponto de malandro)
+---
+tom: [D]
+---
 
-[[Umbanda]] | [[D]]
+[[Umbanda]]
 
 De manhãzinha, quando eu vou decendo o morro  
 A nega pensa que eu vou trabalhar

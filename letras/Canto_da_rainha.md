@@ -1,11 +1,18 @@
-# Canto da rainha
-[[Beth_Carvalho]] | [[D]]
+---
+tom: [D]
+---
+
+[[Beth_Carvalho]]
+
+```start-multi-column
+ID: ID_09kj
+Number of Columns: 2
+```
 
 Tentando esquecer os amargos da vida  
 Um dia saí  
 E consegui disfarçar minha solidão  
-Pois descobri algo mais que a inspiração
-
+Pois descobri algo mais que a inspiração  
 Quando ouvi Ivone cantar  
 E vi toda a poesia pairar no ar
 
@@ -21,6 +28,9 @@ E não é sonho ver
 O fruto de tanta maldade desaparecer  
 Se o mundo inteiro ouvir  
 Ivone cantar ao alvorecer  
+
+--- column-end ---
+
 (Mas olha) Olha como a flor se acende  
 Se o mundo inteiro ouvir  
 Ivone cantar ao alvorecer  
@@ -40,3 +50,5 @@ Ivone cantar ao alvorecer
 (Sonho meu) Sonho meu, sonho meu  
 Se o mundo inteiro ouvir  
 Ivone cantar ao alvorecer
+
+=== end-multi-column

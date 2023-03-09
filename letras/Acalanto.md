@@ -1,6 +1,8 @@
-# Acalanto
+---
+tom: [Em]
+---
 
-[[Teresa Cristina]] | [[Em]]
+[[Teresa Cristina]]
 
 Em todo samba que faço  
 Tem espaço, eu ponho o mar  

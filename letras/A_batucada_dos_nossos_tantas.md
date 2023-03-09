@@ -1,22 +1,18 @@
-# A batucada dos nossos tantãs
-[[Fundo de Quintal]] | [[F]]
+---
+tom: [F]
+---
+
+[[Fundo de Quintal]]
 
 [YouTube](https://www.youtube.com/watch?v=hV2QPi9HtZM)
-
->Entra cavaco e após uma oitava o pandeiro  
->Tamborim junto com letra
 
 Samba, a gente não perde o prazer de cantar  
 E fazem de tudo pra silenciar  
 A batucada dos nossos tantãs  
 
-> rebolo no fim da frase + repique
-
 No seu ecoar, o samba se refez  
 Seu canto se faz reluzir  
 Podemos sorrir outra vez                
-
-> surdo + cordas mais acentuado : banjo ?
 
 Samba, eterno delírio do compositor  
 Que nasce da alma, sem pele, sem cor  

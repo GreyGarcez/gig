@@ -1,6 +1,8 @@
-# Alguém me avisou
+---
+tom: [G]
+---
 
-[[Dona Ivone Lara]] | [[G]]
+[[Dona Ivone Lara]]
 
 **Eu vim de lá, eu vim de lá pequenininho  
 Mas eu vim de lá pequenininho  

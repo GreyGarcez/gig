@@ -1,5 +1,8 @@
-# O Ouro e a Madeira
-[[Os originais do samba]] | [[Gm]]  
+---
+tom: [Gm]
+---
+
+[[Os originais do samba]] 
 
 **O ouro afunda no mar  
 Madeira fica por cima  

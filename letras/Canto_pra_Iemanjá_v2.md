@@ -11,8 +11,8 @@ Sei que não tem mais um mal nenhum
 Se eu pudesse a vida guiar  
 Meu doce lar te presenciar
 
-Dignidade, preciso na vida pra poder cantar  
-Dignidade preciso na vida pra poder sonhar
+**Dignidade, preciso na vida pra poder cantar  
+Dignidade preciso na vida pra poder sonhar**
 
 Se vou assim sempre à vagar  
 Um dia hei de me encontrar  

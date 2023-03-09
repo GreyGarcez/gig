@@ -1,5 +1,8 @@
-# Coisa da antiga
-[[Clara Nunes]] | [[E]]
+---
+tom: [E]
+---
+
+[[Clara Nunes]]
 
 Na tina, vovó lavou, vovó lavou  
 A roupa que mamãe vestiu quando foi batizada  

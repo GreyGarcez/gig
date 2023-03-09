@@ -1,5 +1,8 @@
-# Conselho
-[[Almir Guineto]] | [[G]] | [[D]]  
+---
+tom: [G,D]
+---
+
+[[Almir Guineto]]
 
 Deixe de lado esse baixo astral,  
 Erga a cabeça enfrente o mal,  

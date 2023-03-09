@@ -1,6 +1,8 @@
-# Vou festejar
+---
+tom: [Cm]
+---
 
-[[Beth_Carvalho]] | [[Cm]]
+[[Beth_Carvalho]]
 
 Chora  
 Não vou ligar (não vou ligar)  

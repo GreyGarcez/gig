@@ -1,6 +1,8 @@
-# Nunca mais vou jurar
+---
+tom: [D]
+---
 
-[[Zeca Pagodinho]] | [[D]]
+[[Zeca Pagodinho]]
 
 Eu já jurei!
 

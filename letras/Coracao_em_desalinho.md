@@ -1,5 +1,8 @@
-# Coração em desalinho
-[[Zeca Pagodinho]] | [[F]]
+---
+tom: [F]
+---
+
+[[Zeca Pagodinho]]
 
 Numa estrada dessa vida  
 Eu te conheci Oh Flor!  

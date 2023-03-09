@@ -1,5 +1,9 @@
-# Maneiras
-[[Zeca Pagodinho]] | [[Em]]  
+---
+tom: [Em]
+---
+
+[[Zeca Pagodinho]]
+
 [YouTube](https://youtu.be/6hXbgTFpBbk)  
 
 Se eu quiser fumar, eu fumo  

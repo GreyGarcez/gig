@@ -1,5 +1,7 @@
-# Acreditar
-@autor | [[D]]  
+---
+tom: [D]
+---
+
 [YouTube](https://youtu.be/pw0JYXLTkRs)
 
 Acreditar, eu não  

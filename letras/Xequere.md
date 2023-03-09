@@ -1,5 +1,8 @@
-# Xequeré
-autor | [[Dm]]
+---
+tom: [Dm]
+---
+
+autor
 
 [Youtube](https://www.youtube.com/watch?v=JSJRPXIroeM)
 

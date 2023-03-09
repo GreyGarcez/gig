@@ -1,6 +1,8 @@
-# Minha fé
-[[Zeca Pagodinho]] | [[F]]  
-> conga
+---
+tom: [F]
+---
+
+[[Zeca Pagodinho]]
 
 Eu tenho um santo  
 Padroeiro, poderoso  

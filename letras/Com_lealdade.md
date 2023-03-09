@@ -1,6 +1,9 @@
-# Com lealdade
+---
 
-[[Paulinho da Viola]] | [[A]]
+tom: [A]
+---
+
+[[Paulinho da Viola]]
 
 **Fito os olhos da mulher que eu adoro  
 E não posso confessar o meu sofrer  

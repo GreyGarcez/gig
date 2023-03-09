@@ -1,5 +1,8 @@
-# Canto pra Iemanjá
-[[Rafael Branco]] | [[Am]]  
+---
+tom: [Am]
+---
+
+[[Rafael Branco]]
 
 Se eu quisesse na beira do mar  
 flores jogar, minh'alma entregar  

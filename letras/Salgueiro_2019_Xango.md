@@ -1,6 +1,8 @@
-# Salgueiro 2019 - Xangô 
+---
+tom: [Dm]
+---
 
-[[Rodrigo Godoy]] | [[Dm]]
+[[Rodrigo Godoy]]
 
 [Youtube](https://www.youtube.com/watch?v=bN98usP_39g)
 

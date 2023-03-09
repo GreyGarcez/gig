@@ -1,6 +1,8 @@
-# Pelo Litoral
+---
+tom: [Dm]
+---
 
-[[Arlindo Cruz]] | [[Dm]]
+[[Arlindo Cruz]]
 
 **O mar êê...** (3x)  
 **O mar me chamou pra sambar**

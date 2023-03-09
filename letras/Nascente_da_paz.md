@@ -1,5 +1,8 @@
-# Nascente da Paz
-[[Fundo de Quintal]] | [[G]]  
+---
+tom: [G]
+---
+
+[[Fundo de Quintal]]
 
 **Bororó, bororó, bororó, bororó  
 Bororó, bororó  

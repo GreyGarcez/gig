@@ -1,6 +1,8 @@
-# No Mesmo Manto
+---
+tom: [D]
+---
 
-[[Jovelina Pérola Negra]] | [[D]]  
+[[Jovelina Pérola Negra]]
 
 Pensou me amarrar  
 Marcou bobeira  

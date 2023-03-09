@@ -1,5 +1,8 @@
-# Meu Lugar
-[[Arlindo Cruz]] | [[Em]]
+---
+tom: [Em]
+---
+
+[[Arlindo Cruz]]
 
 O meu lugar É caminho de Ogum e Iansã  
 Lá tem samba até de manhã Uma ginga em cada andar  

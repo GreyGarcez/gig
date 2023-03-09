@@ -1,6 +1,8 @@
-# Cabô meu pai
-[[Zeca Pagodinho]] | [[F]]  
-> conga
+---
+tom: [F]
+---
+
+[[Zeca Pagodinho]]
 
 O pai me disse que a tradição é lanterna  
 Vem do ancestral, é moderna  

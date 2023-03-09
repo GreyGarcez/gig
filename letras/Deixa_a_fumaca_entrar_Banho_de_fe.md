@@ -1,8 +1,16 @@
-# Deixa a fumaça entrar / Banho de fé
+---
+tom: [Dm]
+---
 
-@autor | [[Dm]]
+@autor
 
 [Youtube](https://www.youtube.com/watch?v=4aDADIou3ek)
+
+```start-multi-column
+ID: ID_fk21
+Number of Columns: 2
+Largest Column: standard
+```
 
 Já botei casca de alho  
 Alfazema, benjoim, alecrim  
@@ -18,7 +26,7 @@ Deixa a fumaça entrar na sala
 Deixa a fumaça entrar  
 Deixa a fumaça entrar na sala**
 
----
+--- column-end ---
 
 Se você é de rodar  
 Ou se é de bater tambor  
@@ -45,3 +53,5 @@ Se você é de rodar
 Ou se é de bater tambor  
 Faça o favor  
 **Tome um banho de abô**
+
+=== end-multi-column

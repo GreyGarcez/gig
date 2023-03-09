@@ -1,5 +1,8 @@
-# Singelo menestrel
-[[Dudu Nobre]] | [[Em]]
+---
+tom: [Em]
+---
+
+[[Dudu Nobre]]
 
 Lalalaia lalalaia lalalalalalalalalalala
 

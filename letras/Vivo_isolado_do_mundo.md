@@ -1,6 +1,8 @@
-# Vivo Isolado do mundo
+---
+tom: [Dm]
+---
 
-[[Candeia]] | [[Dm]]
+[[Candeia]]
 
 **Eu vivia,......isolado do mundo  
 Quando eu era vagabun......do  

@@ -1,6 +1,8 @@
-# Estamos aê
+---
+tom: [Am]
+---
 
-[[Grupo Arruda]] | [[Am]]
+[[Grupo Arruda]] 
 
 [Youtube](https://www.youtube.com/watch?v=Cw7xZYRIc-Q)
 

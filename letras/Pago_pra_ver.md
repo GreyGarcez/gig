@@ -1,5 +1,8 @@
-# Pago pra ver
-[[Zeca Pagodinho]] | [[Em]]
+---
+tom: [Em]
+---
+
+[[Zeca Pagodinho]]
 
 Pago pra ver  
 Você rogar a minha volta  

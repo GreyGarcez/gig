@@ -1,5 +1,7 @@
-# Sonho meu
-@autor | [[D]]  
+---
+tom: [D]
+---
+
 [YouTube](https://youtu.be/8hJdomSJeb4?t=1m55s)
 
 Sonho meu, sonho meu  

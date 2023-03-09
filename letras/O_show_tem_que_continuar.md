@@ -1,6 +1,14 @@
-# O Show Tem Que Continuar
+---
+tom: [A]
+---
 
-[[Arlindo Cruz]] | [[A]]
+[[Arlindo Cruz]]
+
+```start-multi-column
+ID: ID_xke8
+Number of Columns: 2
+Largest Column: standard
+```
 
 **Lalaia lalaia laia  
 Lalaia lalaia laia  
@@ -30,6 +38,8 @@ Que uma só nota
 Já nos esgota  
 O show perde a razão
 
+--- column-end ---
+
 Mas iremos achar o tom  
 Um acorde com um lindo som  
 E fazer com que fique bom  
@@ -50,8 +60,8 @@ Todo mundo que hoje diz
 Acabou, vai se admirar  
 Nosso amor vai continuar
 
+**Lalaia lalaia laia  
 Lalaia lalaia laia  
-Lalaia lalaia laia  
-Nosso amor vai continuar  
-Lalaia lalaia laia  
-Lalaia lalaia laia
+Nosso amor vai continuar**  
+
+=== end-multi-column

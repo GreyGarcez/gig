@@ -1,6 +1,8 @@
-# Inigualável Paixão
+---
+tom: [C,F]
+---
 
-[[Reinaldo]] | [[C]] [[F]]
+[[Reinaldo]]
 
 És inegualável  
 Na arte de amar  

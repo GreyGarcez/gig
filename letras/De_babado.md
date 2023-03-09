@@ -1,6 +1,8 @@
-# De Babado
+---
+tom: [E]
+---
 
-[[Noel Rosa]] | [[D]]
+[[Noel Rosa]]
 
 **De babado, sim  
 Meu amor ideal  

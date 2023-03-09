@@ -1,6 +1,8 @@
-# Mineira
-[[João Nogueira]] | [[Em]] | [[Dm]]  
-> A -> conga / restante rebolo  
+---
+tom: [Em,Dm]
+---
+
+[[João Nogueira]]
 
 Clara,  
 Abre o pano do passado,  

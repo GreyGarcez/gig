@@ -1,6 +1,8 @@
-# Brado de Xangô (ponto)
+---
+tom: [Dm]
+---
 
-[[Tião Casemiro]] | [[Dm]]
+[[Tião Casemiro]]
 
 Ele bradou na aldeia  
 Bradou na cachoeira em noite de luar  

@@ -1,10 +1,8 @@
 ---
 tom: 
-autores:
-- Grey
 ---
 
-# Chamado do samba
+[[Grey]]
 
 o samba mandou me chamar
 

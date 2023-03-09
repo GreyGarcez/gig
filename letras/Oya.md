@@ -1,5 +1,8 @@
-# Oyá
-[[Arlindo Cruz]] | [[C]]  
+---
+tom: [C]
+---
+
+[[Arlindo Cruz]]
 
 Oyá  
 É o povo de cá pedindo pra não sofrer  
@@ -16,7 +19,7 @@ E a poeira de tanta sujeira há de subir, Oyá
 **Será  
 Que a força da fé que carrega nosso viver  
 Pode mover montanhas e jogar dentro do mar  
-Tanta gente que mente e só tem mal pra dar?  
+Tanta gente de bem que só tem o mal pra dar?  
 Pra dar!**  
 
 **E será (Será)  

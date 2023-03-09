@@ -1,6 +1,9 @@
-# Dói, Dói, Dói, Dói, Dói (ponto Pombagira)
+---
+title: Dói, Dói, Dói, Dói, Dói (ponto Pombagira)
+tom: [F]
+---
 
-[[Umbanda]] | [[F]]
+[[Umbanda]]
 
 **Dói, dói, dói, dói, dói  
 Um amor faz sofrer  

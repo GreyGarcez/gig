@@ -1,6 +1,8 @@
-# Jogo de sedução
+---
+tom: [C]
+---
 
-[[Grupo Revelação]] | [[C]]
+[[Grupo Revelação]]
 
 [Youtube](https://youtu.be/VT3xmxrXA80)
 

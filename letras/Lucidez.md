@@ -1,5 +1,9 @@
-# Lucidez
-[[Fundo de Quintal]] | [[E]]  
+---
+tom: [E]
+---
+
+[[Fundo de Quintal]] 
+
 [YouTube](https://youtu.be/Mj5N9xZ8mAk)
 
 Ueraia  

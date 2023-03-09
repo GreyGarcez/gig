@@ -1,7 +1,8 @@
-# Lendas da Mata
-[[João Martins]] | [[Dm]]
+---
+tom: [Dm]
+---
 
-> conga
+[[João Martins]]
 
 **O saci rodopiou  
 Ventania na palhoça  

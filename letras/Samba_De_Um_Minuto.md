@@ -1,5 +1,8 @@
-# Samba de Um Minuto
-[[Roberta Sá]] | [[Gm]]
+---
+tom: [Gm]
+---
+
+[[Roberta Sá]] 
 
 Devagar  
 Esquece o tempo lá de fora  

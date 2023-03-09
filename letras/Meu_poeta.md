@@ -1,6 +1,8 @@
-# Meu poeta
+---
+tom: [Cm]
+---
 
-[[Arlindo Cruz]] | [[Cm]]
+[[Arlindo Cruz]]
 
 Meu poeta, por favor  
 Faça um samba de amor  

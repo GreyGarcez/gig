@@ -1,5 +1,9 @@
-# Toda hora
-[[Zeca Pagodinho]] | [[Em]] [[Dm]]
+---
+tom: [Em,Dm]
+---
+
+[[Zeca Pagodinho]]
+
 [YouTube](https://youtu.be/qfWf1DsO_KU)
 
 Toda hora alguém me chama pra beber  

@@ -1,5 +1,8 @@
-# Nem ouro nem prata
-[[Teresa Cristina]] [[F♯m]] [[Em]]
+---
+tom: [F♯m,Em]
+---
+
+[[Teresa Cristina]]
 
 **Eu vi chover, eu vi relampear  
 Mas mesmo assim o céu estava azul  

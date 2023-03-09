@@ -1,6 +1,8 @@
-# Nó Na Madeira
+---
+tom: [E]
+---
 
-[[João Nogueira]] | [[C]] [[D]]
+[[João Nogueira]]
 
 Eu sou é madeira  
 Em samba de roda já dei muito nó...  

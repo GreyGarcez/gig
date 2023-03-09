@@ -1,5 +1,8 @@
-# Filhos de Jorge
-[[Juninho Thybau]] | [[Em]]  
+---
+tom: [Em]
+---
+
+[[Juninho Thybau]]
 
 [Youtube](https://www.youtube.com/watch?v=QW1KMGh-aVM)
 

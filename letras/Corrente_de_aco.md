@@ -1,6 +1,8 @@
-# Corrente De Aço
+---
+tom: [A]
+---
 
-[[João Nogueira]] | [[A]]
+[[João Nogueira]]
 
 Eu cansei de viver chorando  
 Cantando agora sou feliz  

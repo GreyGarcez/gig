@@ -1,5 +1,8 @@
-# Viola em bandoleira
-[[Só preto sem preconceito]] | [[Am]]  
+---
+tom: [Am]
+---
+
+[[Só preto sem preconceito]]
 
 [YouTube](https://youtu.be/2ihoh6Bef8I)
 

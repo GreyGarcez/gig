@@ -1,5 +1,8 @@
-# O dia se zangou
-[[Jovelina Pérola Negra]] | [[D]]
+---
+tom: [D]
+---
+
+[[Jovelina Pérola Negra]]
 
 Em virtude do tempo hoje não há futebol  
 Veio uma chuva de vento, e levou pra bem longe o Sol  
