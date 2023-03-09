@@ -65,6 +65,3 @@ Local: [AfroMusée](https://www.afromusee.org/)
 	(Am) [Estamos_ae](letras/Estamos_ae.md) / [Viola_em_bandoleira](letras/Viola_em_bandoleira.md)
 16. Intro: Percussão depois todo mundo - Tempo: Anderson (140)  
 	(Eb) [Caciqueando](letras/Caciqueando.md) / (Cm) [Vou_festejar](letras/Vou_festejar.md)
-
-Extras:
-...
